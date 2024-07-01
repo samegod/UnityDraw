@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: Brush13
   m_EditorClassIdentifier: 
   texture: {fileID: 2800000, guid: a282154b444223049ac19ddb57e59746, type: 3}
+  displayedName: Star - Large

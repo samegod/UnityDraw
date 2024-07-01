@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: Brush4
   m_EditorClassIdentifier: 
   texture: {fileID: 2800000, guid: cc683cf1b520e14498b4ca4ab9c7f388, type: 3}
+  displayedName: Rain - Large

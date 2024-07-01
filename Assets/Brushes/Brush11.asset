@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: Brush11
   m_EditorClassIdentifier: 
   texture: {fileID: 2800000, guid: 7c8cf9f7e0233aa4a9977af60a8813e8, type: 3}
+  displayedName: Splotches - Medium

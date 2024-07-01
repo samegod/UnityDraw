@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: Brush8
   m_EditorClassIdentifier: 
   texture: {fileID: 2800000, guid: 06c6587bcabd4fd4d98267c0ae785c25, type: 3}
+  displayedName: Solid - Medium
